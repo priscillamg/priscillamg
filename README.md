@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priscilla</h1>
-<h3 align="center">Mixing HTML, CSS, and JavaScript to create digital potions. Currently exploring Python and more!</h3>
+<h3 align="center">Mixing HTML, CSS, and JavaScript to create digital potions. Currently exploring Python, React and more!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priscillamg&label=Profile%20views&color=0e75b6&style=flat" alt="priscillamg" /> </p>
 
